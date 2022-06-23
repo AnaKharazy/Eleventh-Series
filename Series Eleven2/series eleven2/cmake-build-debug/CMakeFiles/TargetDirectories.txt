@@ -1,0 +1,3 @@
+C:/Users/USER/Desktop/Series Eleven2/series eleven2/cmake-build-debug/CMakeFiles/series_eleven2.dir
+C:/Users/USER/Desktop/Series Eleven2/series eleven2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/USER/Desktop/Series Eleven2/series eleven2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
